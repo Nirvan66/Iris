@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Iris</string>
+    <string name="strClassification">Single object classification</string>
+    <string name="strDetection">Multilple object detection</string>
+    <string name="strSwitchClassification">Switch to classification</string>
+    <string name="strSwitchDetection">Switch to detection</string>
+</resources>
